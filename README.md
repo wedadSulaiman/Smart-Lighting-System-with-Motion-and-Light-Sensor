@@ -47,7 +47,8 @@ If motion is detected and the light level is below 900, the LED turns on.
 
 <img width="1944" height="967" alt="Screenshot 2025-07-18 221709" src="https://github.com/user-attachments/assets/ce29f68d-2899-4441-970e-ddf817eee326" />
 <img width="1818" height="977" alt="Screenshot 2025-07-18 221601" src="https://github.com/user-attachments/assets/182254bc-1006-405f-95bd-839b22ff7032" />
-<img width="1827" height="985" alt="Screenshot 2025-07-18 221545" src="https://github.com/user-attachments/assets/fda95c7d-0ec3-47e0-bf6e-f0423a06aeff" />
+<img width="499" height="155" alt="Screenshot 2025-07-18 221650" src="https://github.com/user-attachments/assets/4eb7bbd4-4e97-4999-ae91-54026d99ea2e" />
+
 
 
 
